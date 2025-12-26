@@ -5,6 +5,7 @@ Visualization functions using Plotly for interactive charts.
 import plotly.graph_objects as go
 import plotly.express as px
 import pandas as pd
+import numpy as np
 
 
 def plot_short_percentage_timeline(df, symbol):
